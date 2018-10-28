@@ -1,0 +1,2 @@
+# StockTech
+A pratice project
